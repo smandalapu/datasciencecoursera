@@ -1,0 +1,4 @@
+*.Rhistory
+*.RData
+rprog_data_specdata.zip
+*.csv
